@@ -22,3 +22,6 @@ To install and run this project - install dependencies using npm and then start 
 $ npm install
 $ npm run dev
 ```
+
+## Live
+Check the site out on http://localhost:5000/
