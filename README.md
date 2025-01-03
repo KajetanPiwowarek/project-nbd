@@ -4,8 +4,8 @@ The project involves creating a website that serves as a blogging platform, desi
 
 - Home Page - Features an introduction to the admin, displays the latest blog posts, and provides a clean, user-friendly layout.
 - Subpages:
-    About - Includes information about the admin and the purpose of the site.
-    Contact - Provides a contact form and other methods to get in touch.
+    - About - Includes information about the admin and the purpose of the site.
+    - Contact - Provides a contact form and other methods to get in touch.
 - Dynamic Content - Blog posts are dynamically generated using a Node.js backend and stored in a MongoDB database.
 - Admin Functionality - Allows only the admin to create, update, and delete blog posts.
 - Responsive Design - The site is optimized for various devices, including desktops, tablets, and smartphones.
