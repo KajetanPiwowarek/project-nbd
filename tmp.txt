@@ -1,7 +1,0 @@
-npm run dev
-
-https://github.com/RaddyTheBrand/25.NodeJs-Express-EJS-MongoDB--Blog
-
-https://cloud.mongodb.com/v2/6776b4f1bc0e793431c3d422#/metrics/replicaSet/6776b5a636941023b16c5510/explorer/blog/users/find
-
-localhost:5000
